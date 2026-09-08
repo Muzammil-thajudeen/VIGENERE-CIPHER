@@ -1,5 +1,7 @@
 # VIGENERE-CIPHER
 ## EX. NO: 4
+## Name :Mohamed Muzammil T
+## Reg No :212225100027
  
 
 ## IMPLEMETATION OF VIGENERE CIPHER
